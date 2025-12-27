@@ -1,477 +1,506 @@
 [
   {
     "date": "01-01",
-    "title": "울리히 츠빙글리 생일",
-    "description": ""
+    "shortTitle": "츠빙글리 생일",
+    "fullTitle": "울리히 츠빙글리 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Huldrych-Zwingli-1.jpg/500px-Huldrych-Zwingli-1.jpg"
   },
   {
     "date": "01-02",
-    "title": "클라우지우스 생일",
-    "description": "엔트로피 개념 도입함"
+    "shortTitle": "클라우지우스 생일",
+    "fullTitle": "루돌프 클라우지우스 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rudolf_Clausius.jpg/500px-Rudolf_Clausius.jpg"
   },
   {
     "date": "01-04",
-    "title": "아이작 뉴턴 생일",
-    "description": "율리우스력 그냥 빼기...(혼란이 생겨)"
+    "shortTitle": "뉴턴 생일",
+    "fullTitle": "아이작 뉴턴 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GodfreyKneller-IsaacNewton-1689.jpg/500px-GodfreyKneller-IsaacNewton-1689.jpg"
   },
   {
     "date": "01-07",
-    "title": "갈릴레이의 목성 위성 관측",
-    "description": ""
+    "shortTitle": "목성 위성 관측",
+    "fullTitle": "갈릴레오 갈릴레이의 목성 위성 관측 기념일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
   },
   {
     "date": "01-19",
-    "title": "제임스 와트 생일",
-    "description": ""
+    "shortTitle": "제임스 와트 생일",
+    "fullTitle": "제임스 와트 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/James_Watt_by_Henry_Howard.jpg/500px-James_Watt_by_Henry_Howard.jpg"
   },
   {
     "date": "01-20",
-    "title": "앙드레마리 앙페르 생일",
-    "description": ""
+    "shortTitle": "앙페르 생일",
+    "fullTitle": "앙드레마리 앙페르 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ampere_Andre_1825.jpg/500px-Ampere_Andre_1825.jpg"
   },
   {
     "date": "01-25",
-    "title": "로버트 보일 생일",
-    "description": "보일 생일!!!!!"
+    "shortTitle": "보일 생일",
+    "fullTitle": "로버트 보일 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Robert_Boyle_0001.jpg/500px-Robert_Boyle_0001.jpg"
   },
   {
     "date": "01-25",
-    "title": "라그랑주 생일",
-    "description": ""
+    "shortTitle": "라그랑주 생일",
+    "fullTitle": "조제프루이 라그랑주 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lagrange_portrait_2.jpg/500px-Lagrange_portrait_2.jpg"
   },
   {
     "date": "02-07",
-    "title": "주기율표의 날",
-    "description": ""
+    "shortTitle": "주기율표의 날",
+    "fullTitle": "주기율표 제정 기념일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Modern_periodic_table_with_names.svg/800px-Modern_periodic_table_with_names.svg.png"
   },
   {
     "date": "02-08",
-    "title": "멘델레예프 생일",
-    "description": ""
+    "shortTitle": "멘델레예프 생일",
+    "fullTitle": "드미트리 멘델레예프 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dmitri_Mendeleev_and_Bohuslav_Brauner.jpg/500px-Dmitri_Mendeleev_and_Bohuslav_Brauner.jpg"
   },
   {
     "date": "02-12",
-    "title": "다윈 생일",
-    "description": ""
+    "shortTitle": "다윈 생일",
+    "fullTitle": "찰스 다윈 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg"
   },
   {
     "date": "02-15",
-    "title": "갈릴레오 갈릴레이 생일",
-    "description": ""
+    "shortTitle": "갈릴레이 생일",
+    "fullTitle": "갈릴레오 갈릴레이 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
   },
   {
     "date": "02-15",
-    "title": "제레미 벤담 생일",
-    "description": "그냥 공리를 추구하면 돼..."
+    "shortTitle": "벤담 생일",
+    "fullTitle": "제레미 벤담 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jeremy_Bentham_by_Henry_William_Pickersgill_crop.jpg/500px-Jeremy_Bentham_by_Henry_William_Pickersgill_crop.jpg"
   },
   {
     "date": "02-18",
-    "title": "알렉산드로 볼타 생일",
-    "description": ""
+    "shortTitle": "볼타 생일",
+    "fullTitle": "알렉산드로 볼타 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Alessandro_Volta.jpg/500px-Alessandro_Volta.jpg"
   },
   {
     "date": "02-19",
-    "title": "코페르니쿠스 생일",
-    "description": ""
+    "shortTitle": "코페르니쿠스 생일",
+    "fullTitle": "니콜라우스 코페르니쿠스 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nikolaus_Kopernikus.jpg/500px-Nikolaus_Kopernikus.jpg"
   },
   {
     "date": "02-20",
-    "title": "루드비히 볼츠만 생일",
-    "description": ""
+    "shortTitle": "볼츠만 생일",
+    "fullTitle": "루드비히 볼츠만 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ludwig_Boltzmann.jpg/500px-Ludwig_Boltzmann.jpg"
   },
   {
     "date": "02-22",
-    "title": "하인리히 루돌프 헤르츠 생일",
-    "description": ""
+    "shortTitle": "헤르츠 생일",
+    "fullTitle": "하인리히 루돌프 헤르츠 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heinrich_Rudolf_Hertz.jpg/500px-Heinrich_Rudolf_Hertz.jpg"
   },
   {
     "date": "03-04",
-    "title": "조지 가모프 생일",
-    "description": ""
+    "shortTitle": "가모프 생일",
+    "fullTitle": "조지 가모프 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/5/5a/George_Gamow.jpg"
   },
   {
     "date": "03-13",
-    "title": "프리스틀리 생일",
-    "description": ""
+    "shortTitle": "프리스틀리 생일",
+    "fullTitle": "조지프 프리스틀리 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Joseph_Priestley.jpg/500px-Joseph_Priestley.jpg"
   },
   {
     "date": "03-14",
-    "title": "파이(π)의 날",
-    "description": "그렇습니다"
+    "shortTitle": "파이의 날",
+    "fullTitle": "파이의 날 기념일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/500px-Pi-symbol.svg.png"
   },
   {
     "date": "03-14",
-    "title": "아인슈타인 생일",
-    "description": ""
+    "shortTitle": "아인슈타인 생일",
+    "fullTitle": "알베르트 아인슈타인 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/500px-Albert_Einstein_Head.jpg"
   },
   {
     "date": "03-16",
-    "title": "게오르크 옴 생일",
-    "description": ""
+    "shortTitle": "옴 생일",
+    "fullTitle": "게오르크 옴 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Georg_Simon_Ohm3.jpg/500px-Georg_Simon_Ohm3.jpg"
   },
   {
     "date": "03-21",
-    "title": "조제프 푸리에 생일",
-    "description": ""
+    "shortTitle": "푸리에 생일",
+    "fullTitle": "조제프 푸리에 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fourier2.jpg/500px-Fourier2.jpg"
   },
   {
     "date": "04-01",
-    "title": "윌리엄 하비 생일",
-    "description": ""
+    "shortTitle": "하비 생일",
+    "fullTitle": "윌리엄 하비 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/William_Harvey_2.jpg/500px-William_Harvey_2.jpg"
   },
   {
     "date": "04-14",
-    "title": "세계 양자의 날",
-    "description": "플랑크 상수 4.14 기념..."
+    "shortTitle": "양자의 날",
+    "fullTitle": "세계 양자의 날",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Planck_constant.svg/500px-Planck_constant.svg.png"
   },
   {
     "date": "04-15",
-    "title": "레온하르트 오일러 생일",
-    "description": ""
+    "shortTitle": "오일러 생일",
+    "fullTitle": "레온하르트 오일러 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Leonhard_Euler.jpg/500px-Leonhard_Euler.jpg"
   },
   {
     "date": "04-15",
-    "title": "레오나르도 다빈치 생일",
-    "description": ""
+    "shortTitle": "다빈치 생일",
+    "fullTitle": "레오나르도 다빈치 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Leonardo_self.jpg/500px-Leonardo_self.jpg"
   },
   {
     "date": "04-17",
-    "title": "벤저민 프랭클린 생일",
-    "description": ""
+    "shortTitle": "프랭클린 생일",
+    "fullTitle": "벤저민 프랭클린 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Benjamin_Franklin_by_Joseph_Duplessis_1778.jpg/500px-Benjamin_Franklin_by_Joseph_Duplessis_1778.jpg"
   },
   {
     "date": "04-22",
-    "title": "임마누엘 칸트 생일",
-    "description": "의무덕후 생신"
+    "shortTitle": "칸트 생일",
+    "fullTitle": "임마누엘 칸트 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Immanuel_Kant_painted_portrait.jpg/500px-Immanuel_Kant_painted_portrait.jpg"
   },
   {
     "date": "04-22",
-    "title": "오헨하이머 생일",
-    "description": ""
+    "shortTitle": "오펜하이머 생일",
+    "fullTitle": "로버트 오펜하이머 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/J._Robert_Oppenheimer-original.jpg/500px-J._Robert_Oppenheimer-original.jpg"
   },
   {
     "date": "04-23",
-    "title": "막스 플랑크 생일",
-    "description": ""
+    "shortTitle": "플랑크 생일",
+    "fullTitle": "막스 플랑크 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Max_Planck_%281858-1947%29.jpg/500px-Max_Planck_%281858-1947%29.jpg"
   },
   {
     "date": "04-24",
-    "title": "허블 망원경 발사의 날",
-    "description": "우주 최고 사진작가"
-  },
-  {
-    "date": "04-25",
-    "title": "국제 dna의 날",
-    "description": ""
-  },
-  {
-    "date": "04-26",
-    "title": "리히터 규모의 날",
-    "description": ""
-  },
-  {
-    "date": "04-29",
-    "title": "쥘 앙리 푸앵카레 생일",
-    "description": ""
+    "shortTitle": "허블 발사일",
+    "fullTitle": "허블 우주 망원경 발사의 날",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpg/500px-HST-SM4.jpg"
   },
   {
     "date": "04-30",
-    "title": "요한 프리드리히 가우스 생일",
-    "description": ""
+    "shortTitle": "가우스 생일",
+    "fullTitle": "요한 프리드리히 가우스 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840.jpg/500px-Carl_Friedrich_Gauss_1840.jpg"
   },
   {
     "date": "05-05",
-    "title": "카를 마르크스 생일",
-    "description": "애들아 아저씨가 좋은 거 알려줄게"
+    "shortTitle": "마르크스 생일",
+    "fullTitle": "카를 마르크스 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Karl_Marx_001.jpg/500px-Karl_Marx_001.jpg"
   },
   {
     "date": "05-06",
-    "title": "지그문트 프로이트 생일",
-    "description": "정신분석학의 아버지!"
+    "shortTitle": "프로이트 생일",
+    "fullTitle": "지그문트 프로이트 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg"
   },
   {
     "date": "05-11",
-    "title": "리처드 파인만 생일",
-    "description": ""
+    "shortTitle": "파인만 생일",
+    "fullTitle": "리처드 파인만 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Richard_Feynman_Nobel.jpg/500px-Richard_Feynman_Nobel.jpg"
   },
   {
     "date": "05-15",
-    "title": "이도 생일",
-    "description": "갑자기 동양? 한글의 아빠 세종 생일 축하축하"
+    "shortTitle": "세종대왕 생일",
+    "fullTitle": "세종대왕 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sejong-Standard-Portrait.jpg/500px-Sejong-Standard-Portrait.jpg"
   },
   {
     "date": "05-24",
-    "title": "피렌하이트 생일",
-    "description": ""
+    "shortTitle": "피렌하이트 생일",
+    "fullTitle": "다니엘 가브리엘 파렌하이트 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Daniel_Gabriel_Fahrenheit.jpg/500px-Daniel_Gabriel_Fahrenheit.jpg"
   },
   {
-    "date": "5-27",
-    "title": "레이첼 카슨 생일",
-    "description": ""
+    "date": "05-27",
+    "shortTitle": "카슨 생일",
+    "fullTitle": "레이첼 카슨 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rachel-Carson.jpg/500px-Rachel-Carson.jpg"
   },
   {
     "date": "06-13",
-    "title": "맥스웰 생일",
-    "description": ""
-  },
-  {
-    "date": "06-13",
-    "title": "토마스 영 생일",
-    "description": ""
+    "shortTitle": "맥스웰 생일",
+    "fullTitle": "제임스 클러크 맥스웰 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/James_Clerk_Maxwell_big.jpg/500px-James_Clerk_Maxwell_big.jpg"
   },
   {
     "date": "06-14",
-    "title": "샤를 오귀스탱 쿨룽 생일",
-    "description": ""
+    "shortTitle": "쿨룽 생일",
+    "fullTitle": "샤를 오귀스탱 쿨롱 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Charles_Coulomb.jpg/500px-Charles_Coulomb.jpg"
   },
   {
     "date": "06-19",
-    "title": "블레즈 파스칼 생일",
-    "description": ""
+    "shortTitle": "파스칼 생일",
+    "fullTitle": "블레즈 파스칼 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/500px-Blaise_Pascal_Versailles.JPG"
   },
   {
     "date": "06-23",
-    "title": "국제 여성 공학자의 날",
-    "description": ""
-  },
-  {
-    "date": "06-23",
-    "title": "앨런 튜링 생일",
-    "description": ""
+    "shortTitle": "앨런 튜링 생일",
+    "fullTitle": "앨런 튜링 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Alan_Turing_Aged_16.jpg/500px-Alan_Turing_Aged_16.jpg"
   },
   {
     "date": "07-01",
-    "title": "라이프니츠 생일",
-    "description": ""
-  },
-  {
-    "date": "07-05",
-    "title": "프린키피아 데이",
-    "description": ""
-  },
-  {
-    "date": "07-17",
-    "title": "조르주 르메르트 생일",
-    "description": ""
+    "shortTitle": "라이프니츠 생일",
+    "fullTitle": "고틀리히 빌헬름 라이프니츠 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gottfried_Wilhelm_von_Leibniz.jpg/500px-Gottfried_Wilhelm_von_Leibniz.jpg"
   },
   {
     "date": "07-18",
-    "title": "로버트 훅 생일",
-    "description": ""
-  },
-  {
-    "date": "07-18",
-    "title": "헨드릭 로렌츠 생일",
-    "description": ""
+    "shortTitle": "로버트 훅 생일",
+    "fullTitle": "로버트 훅 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/13_Portrait_of_Robert_Hooke.jpg/500px-13_Portrait_of_Robert_Hooke.jpg"
   },
   {
     "date": "07-20",
-    "title": "그레고어 멘델 생일",
-    "description": ""
+    "shortTitle": "멘델 생일",
+    "fullTitle": "그레고어 멘델 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gregor_Mendel_2.jpg/500px-Gregor_Mendel_2.jpg"
   },
   {
     "date": "07-20",
-    "title": "니콜라 테슬라 생일",
-    "description": ""
-  },
-  {
-    "date": "08-01",
-    "title": "장 바스티스 라마르크 생일",
-    "description": ""
+    "shortTitle": "테슬라 생일",
+    "fullTitle": "니콜라 테슬라 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/500px-Tesla_circa_1890.jpeg"
   },
   {
     "date": "08-06",
-    "title": "알렉산더 플레밍 생일",
-    "description": ""
-  },
-  {
-    "date": "08-09",
-    "title": "아보가드로 생일",
-    "description": ""
+    "shortTitle": "플레밍 생일",
+    "fullTitle": "알렉산더 플레밍 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Alexander_Fleming_1945.jpg/500px-Alexander_Fleming_1945.jpg"
   },
   {
     "date": "08-12",
-    "title": "에르빈 슈뢰딩거 생일",
-    "description": ""
-  },
-  {
-    "date": "08-14",
-    "title": "한스 외르스테드 생일",
-    "description": ""
+    "shortTitle": "슈뢰딩거 생일",
+    "fullTitle": "에르빈 슈뢰딩거 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Erwin_Schr%C3%B6dinger_%281933%29.jpg/500px-Erwin_Schr%C3%B6dinger_%281933%29.jpg"
   },
   {
     "date": "08-15",
-    "title": "나폴레옹 보나파르트 생일",
-    "description": "나의 사전에 불가능은 없다. 광복도 불가능하지 않았다."
+    "shortTitle": "나폴레옹 생일",
+    "fullTitle": "나폴레옹 보나파르트 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/500px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
   },
   {
     "date": "08-24",
-    "title": "명왕성 퇴출 날",
-    "description": ""
+    "shortTitle": "명왕성 퇴출일",
+    "fullTitle": "명왕성 행성 지위 상실의 날",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/500px-Pluto_in_True_Color_-_High-Res.jpg"
   },
   {
     "date": "08-26",
-    "title": "라부아지에 생일",
-    "description": ""
-  },
-  {
-    "date": "08-30",
-    "title": "어니스트 러더퍼드 생일",
-    "description": ""
+    "shortTitle": "라부아지에 생일",
+    "fullTitle": "앙투안 라부아지에 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg/500px-David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg"
   },
   {
     "date": "09-06",
-    "title": "존 돌턴 생일",
-    "description": ""
-  },
-  {
-    "date": "09-09",
-    "title": "루이지 갈바니 생일",
-    "description": ""
-  },
-  {
-    "date": "09-17",
-    "title": "게오르크 리만 생일",
-    "description": ""
-  },
-  {
-    "date": "09-18",
-    "title": "장 베르나르 레옹 푸코 생일",
-    "description": ""
+    "shortTitle": "존 돌턴 생일",
+    "fullTitle": "존 돌턴 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/John_Dalton_by_Charles_Turner.jpg/500px-John_Dalton_by_Charles_Turner.jpg"
   },
   {
     "date": "09-22",
-    "title": "마이클 패러데이 생일",
-    "description": ""
+    "shortTitle": "패러데이 생일",
+    "fullTitle": "마이클 패러데이 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/M_Faraday_At_Work.jpg/500px-M_Faraday_At_Work.jpg"
   },
   {
-    "date": "9-29",
-    "title": "엔리코 페르미 생일",
-    "description": ""
+    "date": "09-29",
+    "shortTitle": "페르미 생일",
+    "fullTitle": "엔리코 페르미 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/500px-Enrico_Fermi_1943-49.jpg"
   },
   {
     "date": "10-07",
-    "title": "닐스 보어 생일",
-    "description": ""
+    "shortTitle": "닐스 보어 생일",
+    "fullTitle": "닐스 보어 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/500px-Niels_Bohr.jpg"
   },
   {
     "date": "10-15",
-    "title": "프리드리히 니체 생일",
-    "description": "신살자의 탄생"
+    "shortTitle": "니체 생일",
+    "fullTitle": "프리드리히 니체 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/500px-Nietzsche187a.jpg"
   },
   {
     "date": "10-21",
-    "title": "알프레드 노벨 생일",
-    "description": ""
+    "shortTitle": "노벨 생일",
+    "fullTitle": "알프레드 노벨 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AlfredNobel_adjusted.jpg/500px-AlfredNobel_adjusted.jpg"
   },
   {
     "date": "10-31",
-    "title": "종교 개혁의 날",
-    "description": "1517년 마틴 루터 95개조 반박문 발표"
+    "shortTitle": "종교 개혁의 날",
+    "fullTitle": "종교 개혁 기념일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/95Thesen.jpg/500px-95Thesen.jpg"
   },
   {
     "date": "10-31",
-    "title": "피에르 드 페르마 생일",
-    "description": ""
+    "shortTitle": "페르마 생일",
+    "fullTitle": "피에르 드 페르마 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pierre_de_Fermat.jpg/500px-Pierre_de_Fermat.jpg"
   },
   {
     "date": "11-01",
-    "title": "알프레드 베게너 생일",
-    "description": "대륙 이동설 주장"
+    "shortTitle": "베게너 생일",
+    "fullTitle": "알프레드 베게너 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Alfred_Wegener_ca.1924-30.jpg/500px-Alfred_Wegener_ca.1924-30.jpg"
   },
   {
     "date": "11-07",
-    "title": "마리 퀴리 생일",
-    "description": "마리언니생일축하해!!!@!@@!!!"
+    "shortTitle": "마리 퀴리 생일",
+    "fullTitle": "마리 퀴리 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c1900.jpg/500px-Marie_Curie_c1900.jpg"
   },
   {
     "date": "11-08",
-    "title": "에드먼드 핼리 생일",
-    "description": ""
-  },
-  {
-    "date": "11-08",
-    "title": "X선 발견",
-    "description": "뢴트겐이 X-ray 발견..."
+    "shortTitle": "X선 발견일",
+    "fullTitle": "빌헬름 뢴트겐의 X선 발견 기념일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wilhelm_R%C3%B6ntgen_by_Friedrich_M%C3%BCller_1890s.jpg/500px-Wilhelm_R%C3%B6ntgen_by_Friedrich_M%C3%BCller_1890s.jpg"
   },
   {
     "date": "11-12",
-    "title": "자크 샤를 생일",
-    "description": "샤를의 법칙"
-  },
-  {
-    "date": "11-17",
-    "title": "아우구스트 뫼비우스 생일",
-    "description": ""
+    "shortTitle": "자크 샤를 생일",
+    "fullTitle": "자크 샤를 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jacques_Charles_painting.jpg/500px-Jacques_Charles_painting.jpg"
   },
   {
     "date": "11-20",
-    "title": "에드윈 허블 생일",
-    "description": ""
-  },
-  {
-    "date": "11-21",
-    "title": "볼테르 생일",
-    "description": ""
+    "shortTitle": "에드윈 허블 생일",
+    "fullTitle": "에드윈 허블 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Edwin_Hubble.jpg/500px-Edwin_Hubble.jpg"
   },
   {
     "date": "11-23",
-    "title": "피보나치의 날",
-    "description": ""
+    "shortTitle": "피보나치의 날",
+    "fullTitle": "피보나치 수열 기념일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fibonacci.jpg/500px-Fibonacci.jpg"
   },
   {
     "date": "11-27",
-    "title": "안데르스 셀시우스 생일",
-    "description": ""
-  },
-  {
-    "date": "11-28",
-    "title": "런던왕립학회 설립일",
-    "description": ""
+    "shortTitle": "셀시우스 생일",
+    "fullTitle": "안데르스 셀시우스 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Anders-Celsius-Head.jpg/500px-Anders-Celsius-Head.jpg"
   },
   {
     "date": "12-06",
-    "title": "게이뤼삭 생일",
-    "description": ""
+    "shortTitle": "게이뤼삭 생일",
+    "fullTitle": "조제프 루이 게이뤼삭 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Joseph_Louis_Gay-Lussac.jpg/500px-Joseph_Louis_Gay-Lussac.jpg"
   },
   {
     "date": "12-15",
-    "title": "앙투안 베크렐 생일",
-    "description": "방사선 발견"
-  },
-  {
-    "date": "12-17",
-    "title": "험프리 데이비 생일",
-    "description": ""
-  },
-  {
-    "date": "12-17",
-    "title": "에밀리 뒤 샤틀레 생일",
-    "description": ""
-  },
-  {
-    "date": "12-22",
-    "title": "장 앙리 파브르 생일",
-    "description": ""
-  },
-  {
-    "date": "12-22",
-    "title": "프랑스 과학 아카데미 설립일",
-    "description": ""
+    "shortTitle": "베크렐 생일",
+    "fullTitle": "앙투안 베크렐 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Henri_Becquerel.jpg/500px-Henri_Becquerel.jpg"
   },
   {
     "date": "12-24",
-    "title": "제임스 줄 생일",
-    "description": ""
+    "shortTitle": "제임스 줄 생일",
+    "fullTitle": "제임스 프레스콧 줄 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/James_Prescott_Joule_by_George_Patten.jpg/500px-James_Prescott_Joule_by_George_Patten.jpg"
   },
   {
     "date": "12-27",
-    "title": "루이 파스퇴르 생일",
-    "description": ""
+    "shortTitle": "루이 파스퇴르 생일",
+    "fullTitle": "루이 파스퇴르 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_by_Albert_Edelfelt.jpg/500px-Louis_Pasteur%2C_by_Albert_Edelfelt.jpg"
   },
   {
     "date": "12-27",
-    "title": "요하네스 케플러 생일",
-    "description": ""
+    "shortTitle": "케플러 생일",
+    "fullTitle": "요하네스 케플러 탄신일",
+    "description": "",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johannes_Kepler_1610.jpg/500px-Johannes_Kepler_1610.jpg"
   }
 ]
